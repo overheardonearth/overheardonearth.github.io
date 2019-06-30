@@ -6,6 +6,7 @@ a:hover {
     color: #333;
 }
 
+
 html {
     max-width: 90%;
     margin: auto;
@@ -50,7 +51,11 @@ body {
     margin-right: 20px;
 }
 
-
+.site header-title a {
+    text-decoration: none;
+}
+.site header-title a:hover {
+}
 
 
     
