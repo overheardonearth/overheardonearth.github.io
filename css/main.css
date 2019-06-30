@@ -20,7 +20,10 @@ body {
     color: #333;
 }
 
-
+h1 {     
+    font-family: 'Roboto Slab', Serif;
+    font-size: 2em;
+}
 
 
 .site-header {
