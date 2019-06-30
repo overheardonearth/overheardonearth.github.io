@@ -29,6 +29,20 @@ body {
     color: #333;
 }
 
+
+.site-title {
+    font-family: Serif;
+}
+
+.site-title div {    
+    flex: 1 1 0;
+}
+
+.site-title {
+    text-align: right;
+}
+    
+
 .post-nav {
     padding: 20px;
     display: flex;
