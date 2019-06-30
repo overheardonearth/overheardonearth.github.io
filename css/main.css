@@ -22,23 +22,26 @@ body {
 
 
 
-.site-title {
+.site-header {
     font-family: 'Roboto Slab', Serif;
-    font-size: 2em;
     display: flex;
     flexwrap: wrap;
 }
 
-.site-title div {    
+.site-header div {    
     flex: 1 1 0;
 }
 
-.site-title-nav {
+.site-header-title {    
+    font-size: 2em;
+}
+
+.site-header-nav {
     text-align: right;
     font-size: 1em;
 }
 
-.site-title-nav ul li {
+.site-header-nav ul li {
     font-weight: bold;
     display: inline;
     margin-right: 20px;
