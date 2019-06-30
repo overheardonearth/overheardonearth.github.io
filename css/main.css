@@ -20,29 +20,31 @@ body {
 }
 
 
+
+
 .site-title {
     font-family: 'Roboto Slab', Serif;
+    font-size: 2em;
 }
-
-.site-title ul {
-    padding: 20px;
-}
-
-.site-title ul li {
-    font-weight: bold;
-    display: inline;
-    margin-right: 20px;
-}
-
 
 .site-title div {    
     flex: 1 1 0;
 }
 
 .site-title-nav {
-    font-size: 1em;
     text-align: right;
 }
+
+.site-title ul li {
+    font-weight: bold;
+    font-size: 1em;
+    display: inline;
+    margin-right: 20px;
+}
+
+
+
+
     
 
 .post-nav {
