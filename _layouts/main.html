@@ -9,13 +9,19 @@
 	</head>
 	
 	<body>
-	<nav>
-	<ul>
-       		<li><a href="/">Newest Post</a></li>
-		<li><a href="{{ site.posts.last.url }}">Oldest Post</a></li>
-       		<li><a href="/all-posts/index.html">All Posts</a></li>
-	</ul>
-	</nav>
+		
+	<div class="site-title">
+		
+		<div class="site-title-nav">
+		<nav>
+		<ul>
+       			<li><a href="/">Newest Post</a></li>
+			<li><a href="{{ site.posts.last.url }}">Oldest Post</a></li>
+       			<li><a href="/all-posts/index.html">All Posts</a></li>
+		</ul>
+		</nav>
+		</div>
+	</div>
 	
 	<h1>
 		{{ page.title }}
