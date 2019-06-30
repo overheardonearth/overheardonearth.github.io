@@ -24,7 +24,8 @@ body {
 
 .site-header {
     font-family: 'Roboto Slab', Serif;
-    padding: 20px;
+    padding-top: 20px;    
+    padding-bottom: 20px;
     display: flex;
     flexwrap: wrap;
 }
