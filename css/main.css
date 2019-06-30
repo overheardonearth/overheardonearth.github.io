@@ -29,12 +29,6 @@ body {
     color: #333;
 }
 
-.PageNavigation {
-}
-
-.PageNavigation a {
-  float: left;
-}
 
 .PageNavigation .next {
   text-align: right;
