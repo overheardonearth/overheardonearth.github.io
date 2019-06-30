@@ -30,6 +30,11 @@ body {
 }
 
 
+.PageNavigation {
+  padding: 20px;
+}
+
+
 .PageNavigation .next {
   text-align: right;
 }
