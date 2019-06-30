@@ -6,16 +6,6 @@ a:hover {
     color: #333;
 }
 
-nav ul {
-    padding: 20px;
-}
-
-nav ul li {
-    font-weight: bold;
-    display: inline;
-    margin-right: 20px;
-}
-
 html {
     max-width: 90%;
     margin: auto;
@@ -34,6 +24,17 @@ body {
     font-family: 'Roboto Slab', Serif;
     font-size: 3em;
 }
+
+.site-title ul {
+    padding: 20px;
+}
+
+.site-title ul li {
+    font-weight: bold;
+    display: inline;
+    margin-right: 20px;
+}
+
 
 .site-title div {    
     flex: 1 1 0;
