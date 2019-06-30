@@ -17,12 +17,8 @@ p {
 */
 
 
-nav ul {
-    font-weight: bold;
-    list-style: none;
-}
-
 nav ul li {
+    font-weight: bold;
     display: inline;
     margin-right: 20px;
 }
