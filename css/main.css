@@ -18,13 +18,12 @@ p {
 
 
 nav ul {
-    list-style: none;
+    padding: 20px;
     font-weight: bold;
 }
 
 nav ul li {
     display: inline;
-    margin-right: 20px;
 }
 
 body {
