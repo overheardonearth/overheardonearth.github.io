@@ -16,10 +16,14 @@ nav ul li {
     margin-right: 20px;
 }
 
+html {
+    max-width: 90%;
+}
+
 body {
     font-family: 'Roboto', 'Source Sans Pro', 'PT Serif', Sans-Serif;    
     max-width: 960px;
-  margin: auto;
-	line-height: 1.6;
+    margin: auto;
+    line-height: 1.6;
     color: #333;
 }
