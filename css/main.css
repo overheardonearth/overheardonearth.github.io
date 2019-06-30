@@ -29,12 +29,13 @@ body {
     color: #333;
 }
 
-
-.PageNavigation {
-  padding: 20px;
+.post-nav {
+    display: flex;
 }
-
-
-.PageNavigation .next {
-  text-align: right;
+.post-nav div {
+    /* flex-grow, flex-shrink, flex-basis */
+    flex: 1 1 0;
+}
+.post-nav-next {
+    text-align: right;
 }
