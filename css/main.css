@@ -53,10 +53,12 @@ body {
 .post-nav {
     padding: 20px;
     display: flex;
+    flexwrap: wrap;
 }
 .post-nav div {
     /* flex-grow, flex-shrink, flex-basis */
     flex: 1 1 0;
+    width: 45%;
 }
 .post-nav-next {
     text-align: right;
