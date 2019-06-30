@@ -3,7 +3,7 @@ a {
     color: #999;
 }
 a:hover {
-    text-decoration: underline;
+    color: #000;
 }
 
 nav ul {
