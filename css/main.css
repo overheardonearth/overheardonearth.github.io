@@ -53,8 +53,10 @@ body {
 
 .site header-title a {
     text-decoration: none;
+    color: #333;
 }
-.site header-title a:hover {
+.site header-title a:hover {    
+    color: #333;
 }
 
 
