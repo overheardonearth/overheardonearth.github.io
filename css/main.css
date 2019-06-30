@@ -16,6 +16,9 @@ p {
 
 */
 
+nav ul {
+    padding: 20px;
+}
 
 nav ul li {
     font-weight: bold;
