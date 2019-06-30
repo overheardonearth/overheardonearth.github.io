@@ -25,6 +25,8 @@ body {
 .site-title {
     font-family: 'Roboto Slab', Serif;
     font-size: 2em;
+    display: flex;
+    flexwrap: wrap;
 }
 
 .site-title div {    
@@ -33,10 +35,6 @@ body {
 
 .site-title-nav {
     text-align: right;
-}
-
-.site-title-nav div {    
-    flex: 1 1 0;
 }
 
 .site-title-nav ul li {
