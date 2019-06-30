@@ -30,6 +30,7 @@ body {
 }
 
 .post-nav {
+    padding: 20px;
     display: flex;
 }
 .post-nav div {
