@@ -19,5 +19,6 @@ nav ul li {
 body {
     font-family: 'Roboto', 'Source Sans Pro', 'PT Serif', Sans-Serif;    
     max-width: 900px;
+	line-height: 1.6;
     color: #333;
 }
