@@ -1,11 +1,5 @@
 /*
 
-nav ul, footer ul {
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
-    padding: 0px;
-    list-style: none;
-    font-weight: bold;
-}
 nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
@@ -27,6 +21,12 @@ p {
 */
 
 
+nav ul {
+    padding: 0px;
+    list-style: none;
+    font-weight: bold;
+}
+
 body {
-    font-family: 'Source Sans Pro', 'PT Serif', Sans-Serif;
+    font-family: 'Roboto', 'Source Sans Pro', 'PT Serif', Sans-Serif;
 }
