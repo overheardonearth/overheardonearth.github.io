@@ -32,7 +32,6 @@ h1 {
 
 
 .site-header {
-    font-family: 'PT Serif', Serif;
     color: #333;
     padding-top: 20px;    
     padding-bottom: 20px;
@@ -44,7 +43,8 @@ h1 {
     flex: 1 1 0;
 }
 
-.site-header-title {    
+.site-header-title {   
+    font-family: 'PT Serif', Serif; 
     font-size: 2em;
 }
 
