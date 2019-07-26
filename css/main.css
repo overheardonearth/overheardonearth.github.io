@@ -118,6 +118,7 @@ body {
     line-height: 1.6;
     color: #333;
     background-color: #fff;
+    min-width: 320px;
 }
 
 h1 {     
@@ -147,7 +148,6 @@ h1 {
 .post {
   background-color: #fff;
   padding: 20px;
-    min-width: 300px;
 }
 
 #disqus_thread {
