@@ -130,14 +130,14 @@ h1 {
 }
 
 .excerpt {
-  border-radius: 20px;
+  border-radius: 15px;
   background-color: #f9f9f9;
   padding: 20px;
   margin-bottom:20px;
 }
 
 .media {
-  border-radius: 20px;
+  border-radius: 15px;
   display: block;
   margin-top: 2em;
   margin-bottom: 2em;
@@ -152,7 +152,8 @@ h1 {
   padding: 20px;
 }
 
-#disqus_thread {
+#disqus_thread {   
+  border-radius: 15px;
   background-color: #f9f9f9;
   padding-top: 20px;
   padding-left: 20px;
