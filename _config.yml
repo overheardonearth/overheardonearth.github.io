@@ -1,2 +1,4 @@
 name: Overheard on Earth
 permalink: /:year/:month/:day/:title
+plugins:
+  - jekyll-seo-tag
