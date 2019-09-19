@@ -147,6 +147,14 @@ h1 {
   background-color: #f9f9f9;
 }
 
+
+.media img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+}
+
 .post {
   background-color: #fff;
   padding: 20px;
