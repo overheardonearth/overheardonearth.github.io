@@ -147,6 +147,12 @@ h1 {
   background-color: #f9f9f9;
 }
 
+.media img {
+   display: block;
+   
+   
+}
+
 
 .post {
   background-color: #fff;
