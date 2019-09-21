@@ -149,6 +149,7 @@ h1 {
 
 .media img {
    display: block;
+   max-width: 100px;
    
    
 }
